@@ -5,7 +5,7 @@
 对象， 从而使得观察者对象能够自动更新。
 在观察者模式中， 被观察的对象常常也被称为目标或主题（Subject） ， 依赖的
 对象被称为观察者（Observer）
-https://github.com/huanglin1/MDImage/raw/master/observer.png
+![Aaron Swartz](https://github.com/huanglin1/MDImage/raw/master/observer.png)
 什么时候使用观察者模式
 1、当一个对象改变需要同时改变其他对象的时候
 2、而且当它不知道具体有多少对象有待改变时。
